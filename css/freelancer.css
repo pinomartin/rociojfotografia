@@ -9864,6 +9864,18 @@ button.amarillo-pastel:hover{
   color: #ffe196 !important;
 }
 
+.hover-rosa:hover{
+  background-color:#eac9d4 !important;
+  color: #ffffff;
+  border-color: #eac9d4 !important;
+}
+
 .fas fa-times{
   color: #fdd365 ;
+}
+
+.ul-style{
+  list-style: none;
+  padding: 0;
+  text-align: justify;
 }
