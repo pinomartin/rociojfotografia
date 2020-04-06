@@ -486,6 +486,7 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
+  
 }
 
 .img-thumbnail {
@@ -2724,9 +2725,9 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-light:hover {
-  color: #212529;
-  background-color: #f8f9fa;
-  border-color: #f8f9fa;
+  color: #f8f9fa ;
+  background-color: #fdd365;
+  border-color: #fdd365;
 }
 
 .btn-outline-light:focus, .btn-outline-light.focus {
@@ -9879,3 +9880,8 @@ button.amarillo-pastel:hover{
   padding: 0;
   text-align: justify;
 }
+
+h2.margin{
+  margin-top: 40px;
+}
+
